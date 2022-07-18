@@ -1,0 +1,25 @@
+第1组测试数据：
+1D6sH  :  In the merkle tree.
+1D6sH  :  In the data but not in merkle tree.
+Jsdsk  :  Not in the data.
+
+第2组测试数据：
+Tm9V7  :  In the merkle tree.
+Tm9V7  :  In the data but not in merkle tree.
+P7OlJ  :  Not in the data.
+
+第3组测试数据：
+5optU  :  In the merkle tree.
+5optU  :  In the data but not in merkle tree.
+mTqhB  :  Not in the data.
+
+第4组测试数据：
+mYi8D  :  In the merkle tree.
+mYi8D  :  In the data but not in merkle tree.
+6bGBw  :  Not in the data.
+
+第5组测试数据：
+utmCS  :  In the merkle tree.
+utmCS  :  In the data but not in merkle tree.
+j285u  :  Not in the data.
+
