@@ -1,2 +1,4 @@
 # MerkleTree-realization
 MerkleTree的实现及简单测试
+
+运行指导以及代码运行结果截图见WordDocument-OperationalGuidelines-and-ScreenshotsOfResults中创新实践提交文档.docx
